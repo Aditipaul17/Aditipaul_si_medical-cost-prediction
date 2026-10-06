@@ -1,4 +1,5 @@
 # Medical Insurance Cost Prediction
+<img width="882" height="747" alt="image" src="https://github.com/user-attachments/assets/a31b3bb6-2cc6-402e-acf5-ee037df2b49c" />
 
 A Machine Learning web application that predicts medical insurance charges based on patient information.
 
